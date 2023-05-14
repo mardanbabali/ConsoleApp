@@ -1,0 +1,15 @@
+C:\Users\merda_4ttqc6t\OneDrive\Desktop\fesiller\fesiller\bin\Debug\net6.0\fesiller.exe
+C:\Users\merda_4ttqc6t\OneDrive\Desktop\fesiller\fesiller\bin\Debug\net6.0\fesiller.deps.json
+C:\Users\merda_4ttqc6t\OneDrive\Desktop\fesiller\fesiller\bin\Debug\net6.0\fesiller.runtimeconfig.json
+C:\Users\merda_4ttqc6t\OneDrive\Desktop\fesiller\fesiller\bin\Debug\net6.0\fesiller.dll
+C:\Users\merda_4ttqc6t\OneDrive\Desktop\fesiller\fesiller\bin\Debug\net6.0\fesiller.pdb
+C:\Users\merda_4ttqc6t\OneDrive\Desktop\fesiller\fesiller\obj\Debug\net6.0\fesiller.csproj.AssemblyReference.cache
+C:\Users\merda_4ttqc6t\OneDrive\Desktop\fesiller\fesiller\obj\Debug\net6.0\fesiller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merda_4ttqc6t\OneDrive\Desktop\fesiller\fesiller\obj\Debug\net6.0\fesiller.AssemblyInfoInputs.cache
+C:\Users\merda_4ttqc6t\OneDrive\Desktop\fesiller\fesiller\obj\Debug\net6.0\fesiller.AssemblyInfo.cs
+C:\Users\merda_4ttqc6t\OneDrive\Desktop\fesiller\fesiller\obj\Debug\net6.0\fesiller.csproj.CoreCompileInputs.cache
+C:\Users\merda_4ttqc6t\OneDrive\Desktop\fesiller\fesiller\obj\Debug\net6.0\fesiller.dll
+C:\Users\merda_4ttqc6t\OneDrive\Desktop\fesiller\fesiller\obj\Debug\net6.0\refint\fesiller.dll
+C:\Users\merda_4ttqc6t\OneDrive\Desktop\fesiller\fesiller\obj\Debug\net6.0\fesiller.pdb
+C:\Users\merda_4ttqc6t\OneDrive\Desktop\fesiller\fesiller\obj\Debug\net6.0\fesiller.genruntimeconfig.cache
+C:\Users\merda_4ttqc6t\OneDrive\Desktop\fesiller\fesiller\obj\Debug\net6.0\ref\fesiller.dll
